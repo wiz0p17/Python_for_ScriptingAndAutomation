@@ -27,4 +27,3 @@ file = Path("Test.txt")
 
 with file.open("r") as f:
     print(f.read())
-
