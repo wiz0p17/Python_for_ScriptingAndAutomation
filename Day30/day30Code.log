@@ -1,0 +1,26 @@
+INFO:root:Output From verbose = 
+11:00  up 12 days, 14:50, 1 user, load averages: 1.85 2.22 2.19
+
+INFO:root:Output From verbose = 
+11:00  up 12 days, 14:51, 1 user, load averages: 1.84 2.16 2.17
+
+INFO:root:Output From verbose = 
+11:01  up 12 days, 14:51, 1 user, load averages: 1.78 2.14 2.17
+
+
+INFO:root:Output From verbose = 
+[Errno 2] No such file or directory: 'u'
+INFO:root:Output From verbose = 
+[Errno 2] No such file or directory: 'u'
+INFO:root:Output From verbose = 
+None
+INFO:root:Output From verbose = 
+An error occoured
+INFO:root:Output From verbose = 
+('An error occoured', FileNotFoundError(2, 'No such file or directory'))
+INFO:root:Output From verbose = 
+[Errno 2] No such file or directory: 'u'
+INFO:root:Output From verbose = 
+An error occoured
+INFO:root:Output From verbose = 
+An error occoured3
