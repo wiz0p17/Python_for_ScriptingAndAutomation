@@ -98,8 +98,3 @@ response = requests.get("https://api.github.com",timeout=5)
 
 print(response.status_code)
 
-
-
-
-
-
