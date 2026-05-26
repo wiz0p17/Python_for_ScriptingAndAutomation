@@ -10,5 +10,5 @@ from datetime import datetime
 
 log = f"{datetime.now()} Monitoring active\n"
 
-with open("monitoring.log","a")as file:
+with open("monitoring.log","a") as file:
     file.write(log)
