@@ -1,0 +1,1 @@
+print("Day67 Assessment Code")
