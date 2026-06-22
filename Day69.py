@@ -4,3 +4,5 @@ print("Today is my birthday!!!!")
 
 
 print("its the longest day on earth")
+
+print("Hello world")
