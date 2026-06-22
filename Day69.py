@@ -3,6 +3,18 @@ print("Day 69 Code")
 print("Today is my birthday!!!!")
 
 
-print("its the longest day on earth")
 
-print("Hello world")
+
+def notify(message):
+
+    print(message)
+
+import random
+
+cpu = random.randint(20,100)
+
+print(f"CPU: {cpu}%")
+
+if cpu > 85 :
+    notify(f"ALERT: CPU = {cpu}%")
+
