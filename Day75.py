@@ -1,16 +1,8 @@
 print("Day 75 Code.")
 print("Day 75 Code.")
 print("Day 75 Codeeee.")
-print("Day 75 Codeeee.")
-print("Day 75 Codeeee.")
-print("Day 75 Codeeee.")
-print("Day 75 Codeeee.")
-print("Day 75 Codeeee.")
 
-print("Hello world")
-print("Hello world")
-print("Hello world")
-print("Hello world")
+print("Hello worldddddd")
 
 
 
